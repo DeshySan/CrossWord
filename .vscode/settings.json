@@ -1,0 +1,13 @@
+{
+    "notebook.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.jsxSingleQuote": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+  "emmet.includeLanguages": {
+     "javascript": "javascriptreact"
+ },
+ "emmet.syntaxProfiles": {
+     "javascript": "jsx"
+ }
+
+    
+}
